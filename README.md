@@ -2,7 +2,7 @@
 
    A Handy Calculator in which the user doesn't have to type the numbers, but instead only draw the number, and the machine will be able to fetch the correct number and perform the required arithmetic operations.
 
-About:-
+# About:-
 
    
    
@@ -15,7 +15,7 @@ About:-
 
 
 
-GUI
+# GUI
 
 
 
@@ -32,7 +32,7 @@ GUI
 
 
 
-Explanation Of Model
+# Explanation Of Model
 
 
 
