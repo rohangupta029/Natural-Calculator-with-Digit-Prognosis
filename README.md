@@ -27,3 +27,13 @@ GUI
 
 
 ![Capture](https://user-images.githubusercontent.com/50102257/133035984-b9f6f6a7-fee8-46c3-b280-d99d3d96eb1a.PNG)
+
+
+
+
+
+Explanation Of Model
+
+
+
+A simple convolutional neural network is a sequence of layers, and every layer transforms one volume of activations to another through a differentiable function. We use three main types of layers to build the network. These are convolutional layers, pooling layers and fully connected layers. We will stack these layers to form our network architecture. We will go into more details below.
