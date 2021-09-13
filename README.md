@@ -12,4 +12,8 @@ The MNIST handwritten digit classification problem is a standard data-set used i
 
 
 GUI
+
+
+
+
 ![Capture](https://user-images.githubusercontent.com/50102257/133035984-b9f6f6a7-fee8-46c3-b280-d99d3d96eb1a.PNG)
